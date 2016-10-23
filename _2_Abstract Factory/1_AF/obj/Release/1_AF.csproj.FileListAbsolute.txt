@@ -1,6 +1,0 @@
-F:\YandexDisk\projects\Courses\паттерны проектирования\Design Patterns Rep\Abstract Factory\1_AF\bin\Release\1_AF.exe.config
-F:\YandexDisk\projects\Courses\паттерны проектирования\Design Patterns Rep\Abstract Factory\1_AF\bin\Release\1_AF.exe
-F:\YandexDisk\projects\Courses\паттерны проектирования\Design Patterns Rep\Abstract Factory\1_AF\bin\Release\1_AF.pdb
-F:\YandexDisk\projects\Courses\паттерны проектирования\Design Patterns Rep\Abstract Factory\1_AF\obj\Release\1_AF.csprojResolveAssemblyReference.cache
-F:\YandexDisk\projects\Courses\паттерны проектирования\Design Patterns Rep\Abstract Factory\1_AF\obj\Release\1_AF.exe
-F:\YandexDisk\projects\Courses\паттерны проектирования\Design Patterns Rep\Abstract Factory\1_AF\obj\Release\1_AF.pdb
