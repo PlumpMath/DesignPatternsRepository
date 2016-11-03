@@ -29,7 +29,6 @@ namespace _1_Builder {
             public BodyBuilder(string t = null, string b = null) { topic=t; body=b; }
 
             public RecipientsBuilder addRecipients(List<string> rs) {
-                new EmailProduct(topic, body, rs);
                 return new RecipientsBuilder(topic, body, rs);
             }
 
